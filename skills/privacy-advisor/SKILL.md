@@ -1,5 +1,5 @@
 ---
-name: Privacy Advisor (On-Demand Scan - IT)
+name: privacy-advisor
 description: Analizza le immagini in locale alla ricerca di rischi per la privacy (password, documenti, volti, targhe) e fornisce un report immediato.
 category: Security & Privacy
 version: 1.0.0
